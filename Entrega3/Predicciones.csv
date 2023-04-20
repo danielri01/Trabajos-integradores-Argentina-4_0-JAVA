@@ -1,0 +1,51 @@
+GRUPOS,Maria,Argentina,GANA1,Arabia Saudita
+GRUPOS,Maria,Argentina,GANA2,Mexico
+GRUPOS,Maria,Polonia,EMPATE,Argentina
+OCTAVOS,Maria,Paises Bajos,GANA1,USA
+OCTAVOS,Maria,Argentina,GANA1,Australia
+CUARTOS,Maria,Paises Bajos,GANA2,Argentina
+CUARTOS,Maria,Croacia,GANA2,Brasil
+SEMIFINAL,Maria,Argentina,GANA1,Croacia
+SEMIFINAL,Maria,Francia,GANA1,Marruecos
+FINAL,Maria,Argentina,EMPATE,Francia
+GRUPOS,Ana,Francia,GANA1,Australia
+GRUPOS,Ana,Francia,GANA1,Dinamarca
+GRUPOS,Ana,Tunez,GANA2,Francia
+OCTAVOS,Ana,Inglaterra,GANA2,Senegal
+OCTAVOS,Ana,Francia,GANA1,Polonia
+CUARTOS,Ana,Inglaterra,EMPATE,Francia
+CUARTOS,Ana,Marruecos,GANA2,Portugal
+SEMIFINAL,Ana,Argentina,GANA1,Croacia
+SEMIFINAL,Ana,Francia,GANA1,Marruecos
+FINAL,Ana,Argentina,GANA2,Francia
+GRUPOS,Valentin,Argentina,GANA1,Arabia Saudita
+GRUPOS,Valentin,Argentina,EMPATE,Mexico
+GRUPOS,Valentin,Polonia,GANA2,Argentina
+OCTAVOS,Valentin,Paises Bajos,GANA2,USA
+OCTAVOS,Valentin,Argentina,GANA1,Australia
+CUARTOS,Valentin,Paises Bajos,EMPATE,Argentina
+CUARTOS,Valentin,Croacia,GANA2,Brasil
+SEMIFINAL,Valentin,Argentina,EMPATE,Croacia
+SEMIFINAL,Valentin,Francia,EMPATE,Marruecos
+FINAL,Valentin,Argentina,GANA1,Francia
+GRUPOS,Jorge,Argentina,GANA1,Arabia Saudita
+GRUPOS,Jorge,Argentina,EMPATE,Mexico
+GRUPOS,Jorge,Polonia,EMPATE,Argentina
+OCTAVOS,Jorge,Paises Bajos,EMPATE,USA
+OCTAVOS,Jorge,Argentina,GANA1,Australia
+CUARTOS,Jorge,Paises Bajos,GANA1,Argentina
+CUARTOS,Jorge,Croacia,EMPATE,Brasil
+SEMIFINAL,Jorge,Argentina,GANA1,Croacia
+SEMIFINAL,Jorge,Francia,GANA2,Marruecos
+FINAL,Jorge,Argentina,EMPATE,Francia
+GRUPOS,Luca,Francia,EMPATE,Australia
+GRUPOS,Luca,Francia,GANA2,Dinamarca
+GRUPOS,Luca,Tunez,GANA2,Francia
+OCTAVOS,Luca,Inglaterra,GANA1,Senegal
+OCTAVOS,Luca,Francia,EMPATE,Polonia
+CUARTOS,Luca,Inglaterra,GANA1,Francia
+CUARTOS,Luca,Marruecos,EMPATE,Portugal
+SEMIFINAL,Luca,Argentina,EMPATE,Croacia
+SEMIFINAL,Luca,Francia,GANA1,Marruecos
+FINAL,Luca,Argentina,EMPATE,Francia
+TERCERPUES,Luca,Croacia,GANA1,Marruecos

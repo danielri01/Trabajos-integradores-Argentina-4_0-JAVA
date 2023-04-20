@@ -1,0 +1,2 @@
+Database_config,url,user
+,jdbc:mysql://localhost:3306/partidos,root
